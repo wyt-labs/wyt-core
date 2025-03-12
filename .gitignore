@@ -1,0 +1,11 @@
+.idea
+.vscode
+.DS_Store
+**/*.so
+*.log
+*-nohup
+cmd/core/wyt*
+internal/core/dao/input_test.go
+.history
+deploy/process.pid
+deploy/tools/bin/wyt-core
